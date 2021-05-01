@@ -1,0 +1,7 @@
+6 100 Nurburgring
+9 1000 Grecia
+12 1200 Japao
+20 1100 Portugal
+20 1200 Roma
+20 2000 Australia
+20 1914 Espanha
